@@ -1,2 +1,2 @@
-# snapbox-app-release
+# snapbox-app-gs
 Aplikasi fotobox dengan pembayaran QRIS
